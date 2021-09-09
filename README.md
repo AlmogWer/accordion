@@ -1,20 +1,40 @@
-#### Idea
+<h1 align="center">Accordion</h1>
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+## Project Description
 
-![](./idea.png);
+Small React project to create Q&A component with expension functionality
 
-#### React Icons
+## Built with
 
-[react icons](https://react-icons.github.io/react-icons/)
+- HTML
+- CSS
+- React
+
+# npm-start
+
+[npm start](https://docs.npmjs.com/cli/v7/commands/npm-start)
 
 ```
+npm install
 npm install react-icons --save
 ```
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
 ```
+npm-start -g
+
+```
+
+## Links
+
+- [Repo](https://github.com/AlmogWer/reviews "Reviews Repo")
+- [Live](https://almogwer-accordion.netlify.app/ "Live View")
+
+## Screenshots
+
+![](img/Capture.PNG "Home Page")
+
+## Author
+
+- [Almogwer](https://github.com/almogwer)
+- [Mail](mailto:Almogish@gmail.com?Subject=Hi% "Hi!")
+- [Linkedin](https://www.linkedin.com/in/almogwertzberger/)
